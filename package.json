@@ -1,0 +1,12 @@
+{
+  "name": "ldif-migration",
+  "version": "0.0.1",
+  "description": "Convert LDIF file to Auth0 compatible JSON file",
+  "main": "index.js",
+  "author": "Dan Baker",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "ldif": "^0.5.1"
+  }
+}
